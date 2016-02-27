@@ -1,10 +1,8 @@
 ---
 layout: post
 title: 2015工作总结和2016展望
-categories: blog
 date: 2016-01-26
-
-comments: true
+categories: blog
 tags: [总结,知识管理]
 description: 2015年有失也有得，有快乐也有痛苦，有努力也有放纵。总体来说不算太满意
 ---

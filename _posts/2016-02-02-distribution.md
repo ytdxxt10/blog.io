@@ -3,9 +3,8 @@ layout: post
 title: iOS应用发布
 date: 2016-02-02
 categories: blog
-tags:[iOS技术]
+tags: [iOS技术]
 description: iOS应用发布
-comments: true
 ---
 #iOS应用发布
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: iOS企业应用发布
-category: 技术
+date: 2016-02-02
+tags:[iOS技术]
+description: iOS应用发布
+
 comments: true
 ---
 

@@ -4,9 +4,9 @@ title: iOS企业应用发布
 date: 2016-02-02
 categories: blog
 tags:[iOS技术]
-description: iOS应用发布
+description: iOS企业应用发布
 ---
-#iOS企业级发布
+#iOS企业应用发布
 
 当然你首先得有一个企业账号😊，像下面这种
 ![](https://github.com/ytdxxt10/Terry_Blog/raw/gh-pages/blogImages/two.png)

@@ -16,7 +16,7 @@ header-img: "img/green.jpg"
 
 - 人生应该善良和努力。
 - 梦想是前进的动力。
-- 不积跬步，无以至千里；不积小流无以至江海
+- 不积跬步无以至千里；不积小流无以成江海
 - 兴趣是最好的老师
 
 
@@ -24,9 +24,8 @@ header-img: "img/green.jpg"
 
 
 - [元认知](http://www.mesule.com/)
-- 写作
 - Python
-- [阳志平](http://www.yangzhiping.com/)
+- [test](http://www.yangzhiping.com/)
 - [ZoomQuiet](http://blog.zoomquiet.io/)
 
 

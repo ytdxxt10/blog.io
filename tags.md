@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Tags"
-description: "哈哈，你找到了我的文章基因库"  
+description: "不积跬步无以至千里，不积小流无以成江海"  
 header-img: "img/semantic.jpg"  
 ---
 

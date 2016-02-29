@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "人生应该善良和努力，还应该有梦想 "
+description: "人生应该善良和努力"
 header-img: "img/green.jpg"
 ---
 

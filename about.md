@@ -22,11 +22,12 @@ header-img: "img/green.jpg"
 
 ###关注：
 
-
 - [元认知](http://www.mesule.com/)
 - Python
 - [test](http://www.yangzhiping.com/)
 - [ZoomQuiet](http://blog.zoomquiet.io/)
+
+###[原博客地址](http://blog.csdn.net/see_you_in_the_past)
 
 
 

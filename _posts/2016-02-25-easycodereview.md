@@ -1,3 +1,13 @@
+---
+layout: post
+title: 代码的简单重构方法
+date: 2016-02-25
+categories: blog
+tags: [iOS积累]
+description: 代码的简单重构
+
+---
+
 #重构
 
 1.**重命名：对类，接口，方法，属性等重命名，以使得更易理解**

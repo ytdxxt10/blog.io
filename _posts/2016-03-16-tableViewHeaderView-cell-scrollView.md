@@ -12,7 +12,7 @@ description: Problem&Solve。
 
 
 正常情况下
-![]blog1](https://github.com/ytdxxt10/ytdxxt10.github.io/raw/master/blogImage/tableView1.gif)
+![blog1](https://github.com/ytdxxt10/ytdxxt10.github.io/raw/master/blogImage/tableView1.gif)
 
 
 ```
